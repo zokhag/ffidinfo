@@ -9,7 +9,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = "8103646454:AAHmDLUfByy8lYR183y6WOxYJnN_ag6I76Q"
+BOT_TOKEN = "8290274056:AAETZl83qainaVWfmQTHS_H9pZnTkxB2WgQ"
 ADMIN_ID = 7116845457  # your Telegram numeric ID
 
 REQUIRED_CHANNELS = [-1002307015739, -1003489577704, -1003277917217]
@@ -216,3 +216,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
